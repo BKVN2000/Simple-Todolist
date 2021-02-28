@@ -6,3 +6,4 @@ Simple Java GUI TodolList for my framework design pattern final project. The des
 - Decorator Pattern
 - Strategy Pattern
 - Observer Pattern
+- Mediator Pattern
